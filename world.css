@@ -73,13 +73,13 @@ th,
 td {
   padding: 10px 12px;
   text-align: left;
-  border: 1px solid #e2e8f0;
+  border: 1px solid #fae0f4;
 }
 
 th {
-  background: #edf2f7;
+  background: #fa9bda;
 }
 
 tbody tr:nth-child(even) {
-  background: #f7fafc;
+  background: #f8caed;
 }
